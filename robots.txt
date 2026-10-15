@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://takasr898-create.github.io/belt-clean-solutions/sitemap.xml
